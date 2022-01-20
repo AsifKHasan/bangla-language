@@ -9,6 +9,7 @@ python3 rules-from-gsheet.py && cat ./test/moby-dick | python3 en-to-bn.py > ./o
 '''
 
 import sys
+import codecs
 import fileinput
 
 import ply.lex as lex
@@ -144,7 +145,10 @@ class EnParser(object):
 
 		s = ''.join(self.token_list)
 		s = post_process(s)
+		# UTF8Writer = codecs.getwriter('utf8')
+		# sys.stdout = UTF8Writer(sys.stdout)
 		print(s.encode('utf-8').decode(sys.stdout.encoding))
+		# print(s.encode('utf-8'))
 		# print(s)
 
 if __name__ == '__main__':

@@ -9,7 +9,7 @@ tokens = ['BREAKER', 'DARI', 'CARET', 'type1_tokens']
 conversion_map = {}
 
 def build_conversion_map(file_path):
-	for line in fileinput.input(file_path):
+	for line in fileinput.input(file_path, openhook=fileinput.hook_encoded("utf-8")):
 		line = line.strip()
 		if line == '' or line.startswith('#'):
 			continue
