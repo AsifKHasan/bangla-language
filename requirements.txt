@@ -1,0 +1,16 @@
+pandas
+numpy
+pyfunctional
+
+nltk
+
+ujson
+
+plex
+plex3
+ply
+
+pygsheets
+httplib2
+oauth2client
+pydrive
