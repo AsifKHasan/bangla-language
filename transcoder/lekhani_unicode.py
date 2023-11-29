@@ -702,7 +702,7 @@ def main():
         exit(-1)
     # lexicon = Lexicon(states + full_tokens)
     lexicon = Lexicon(states + full_tokens)
-    in_filename = sys.argv[1]
+    in_filename = in_filename = f"./data/{sys.argv[1]}.txt"
     f = open(in_filename, "r")
     scanner = Scanner(lexicon, f, in_filename)
     scanner.begin("")
@@ -719,7 +719,7 @@ def main():
     # post_process(tokenlist)
     s = "".join(tokenlist).replace(U_CONJUNCT + U_CONJUNCT, U_CONJUNCT)
     # print(s, end="")
-    out_filename = f"{sys.argv[1]}.unicode.txt"
+    out_filename = f"./out/{sys.argv[1]}.txt"
     with open(out_filename, "w", encoding="utf-8") as f:
         f.write(s)
 

@@ -1,9 +1,0 @@
-pip install git+git://github.com/algerbrex/plex.git
-git clone https://github.com/algerbrex/plex.git
-python setup.py install
-
-pip install plex
-pip install plex3
-
-lekhani_unicode.py text/test.txt 
-sutonny_unicode.py text/test.txt 

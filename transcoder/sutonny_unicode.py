@@ -641,7 +641,7 @@ def main():
         print("Usage:", sys.argv[0], "input_file")
         exit(-1)
     lexicon = Lexicon(states + full_tokens)
-    in_filename = sys.argv[1]
+    in_filename = f"./data/{sys.argv[1]}.txt"
     f = open(in_filename, "r", encoding="utf-8")
     scanner = Scanner(lexicon, f, in_filename)
     scanner.begin("")
@@ -655,7 +655,7 @@ def main():
             break
 
     apply_saved_tokens(scanner)
-    out_filename = f"{sys.argv[1]}.unicode.txt"
+    out_filename = f"./out/{sys.argv[1]}.txt"
     with open(out_filename, "w", encoding="utf-8") as f:
         for tt in tokenlist:
             # print(tt, end="")

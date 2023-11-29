@@ -1,0 +1,26 @@
+pip install git+git://github.com/algerbrex/plex.git
+git clone https://github.com/algerbrex/plex.git
+python setup.py install
+
+pip install plex
+pip install plex3
+
+lekhani_unicode.py test
+sutonny_unicode.py test 
+
+
+Òঅঃঁড়সধঃবফ ওঈঞ ঝুংঃবস ড়ভ এৎধসববহ ইধহশÓ
+"Automated ICT System of Grameen Bank"
+
+চঝঈ
+PSC
+
+চওঈ
+PIC
+
+রম্নম
+রুম
+
+|
+।
+
