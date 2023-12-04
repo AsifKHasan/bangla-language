@@ -1,90 +1,34 @@
-
-
-  MÖvgxY e¨vsK
-       cÖavb Kvh©vjq
-       wgicyi-2, XvKv-1216|
-
-Z_¨ I cÖhyw³ wefvM	                                                              ZvwiLt 27-11-2023
-
-
-
-
-	
-
-
-
-
-
-ÒAutomated ICT System of Grameen BankÓ cÖK‡íi 
-cÖ‡R± w÷qvwis KwgwU (PSC)-i 5g mfvi Kvh©cÎ|  
-
-
-
-
-
-
-
-
-
-
-
-
-
-¯’vbt MÖvgxY e¨vsK 8g †d¬v‡ii wgwUs iæg, wgicyi-2, XvKv-1216|
-ZvwiL t 27-11-2023
-mgq t mÜv 6.00Uv|
-
-
-
-  MÖvgxY e¨vsK
-       cÖavb Kvh©vjq
-       wgicyi-2, XvKv-1216|
-Z_¨ I cÖhyw³ wefvM	                                                              ZvwiLt 27-11-2023
-
-welq: ÒAutomated ICT System of Grameen BankÓ cÖK‡íi 
-cÖ‡R± w÷qvwis KwgwU (PSC)-i 5g mfvi Av‡jvP¨m~wP  
-
-µwgK bs
-weeiY
-c„ôv b¤^i
-5.1
-cÖ‡R± w÷qvwis KwgwU (PSC)-i 4_© mfvi Kvh©weeiYx Aby‡gv`b cÖm‡½|
-1
-5.2
-cÖ‡R± w÷qvwis KwgwU (PSC)-i 4_© mfvi mycvwik mg~‡ni d‡jvAvc cÖm‡½|
-31
-5.3
-cÖ‡R± Bgwcø‡g‡›Ukb KwgwU (PIC)-i 5g mfvi mycvwik cÖm‡½|
-40
-5.4
+6.1
+cÖ‡R± w÷qvwis KwgwU (PSC)-i 5g mfvi Kvh©weeiYx Aby‡gv`b cÖm‡½|
+6.2
+cÖ‡R± w÷qvwis KwgwU (PSC)-i 5g mfvq M„nxZ wm×všÍ mg~‡ni d‡jvAvc cÖm‡½|
+6.3
+cÖ‡R± w÷qvwis KwgwU (PSC)-i 4_© mfvmn BwZc~‡e© †h mKj wm×všÍ ev¯Íevqb nqwb Zvi d‡jvAvc cÖm‡½|
+6.4
+cÖ‡R± Bgwcø‡g‡›Ukb KwgwU (PIC)-i 6ô mfvi mycvwik cÖm‡½|
+6.5
 ÒAutomated ICT System of Grameen BankÓ cÖK‡íi AMÖMwZ cÖm‡½|
-63
-5.5
-MÖvgxY KwgDwb‡Kkvbm&& Gi gBanker5 Ges gHRM e¨envi msµvšÍ Pzw³i Lmov PzovšÍ KiY cÖm‡½|
-64
-5.6
-ÒAutomated ICT System of Grameen BankÓ cÖK‡íi AvIZvq Z_¨ e¨e¯’vcbv †K‡›`ªi Kvh©µg cwiPvjbvi Rb¨ 400wU Kw¤úDUvi µq cÖm‡½|
-65
-5.7
-9g †d¬v‡ii †bUIq¨vK©mn cÖavb Kvh©vj‡qi †bUIqvK© Avc‡MÖ‡Wkb Kiv Ges mvf©vi µq Kiv cÖm‡½|
-66
-5.8
+6.6
+wW‡m¤^iÕ23 gv‡mi g‡a¨B 40wU †hv‡bi Rb¨ 40Rb wm‡÷g mv‡cvU© mycvifvBRvi I 20 Rb wm‡÷g mv‡cvU© nvW©Iq¨vi BwÄwbqvi/mycvifvBRvi wb‡qvMcÎ cÖ`vb wbwðZ K‡i cÖavb Kvh©vj‡q Zv‡`i‡K wb‡q 02 w`‡bi Kg©kvjvi Av‡qvRb Kiv|
+6.7
+ÒAutomated ICT System of Grameen BankÓ cÖK‡íi Acv‡ikb g¨vbyq¨vj Gi Lmov Dc¯’vcb cÖm‡½|
+6.8
+ÒAutomated ICT System of Grameen BankÓ cÖK‡íi Rb¨ cÖwkÿY g¨vbyq¨vj Dc¯’vcb cÖm‡½|
+6.9
+ÒAutomated ICT System of Grameen BankÓ cÖK‡íi gwbUwis dig¨vU wba©viY cÖm‡½|
+6.10
+cÖavb Kvh©vj‡qi †bUIqvK© ¯’vcb Kiv cÖm‡½|
+6.11
 Z_¨ I cÖhyw³ wefv‡Mi AvIZvq Z_¨ e¨e¯’vcbv †K‡›`ªi Rb¨ WvUv Gw›Uª Acv‡iUi wn‡m‡e wbR¯^ Rbej ˆZixi cÖwkÿY cÖm‡½|
-72
-5.9
-ÒAutomated ICT System of Grameen BankÓ cÖK‡íi AvIZvq cÖavb Kvh©vj‡qi wefbœ BDwb‡Ui TOR Ges BDwb‡Ui Rbweb¨vm KiY cÖm‡½|
-73
-5.10
-ÒAutomated ICT System of Grameen BankÓ cÖK‡íi AvIZvq cÖavb Kvh©vj‡q nvW©Iq¨vi I gwbUwis Gi Kv‡Ri Rb¨ Rbej wb‡qvM cÖm‡½|
-80
-5.11
+6.12
+ÒAutomated ICT System of Grameen BankÓ cÖK‡íi AvIZvq cÖavb Kvh©vj‡qi wefbœ BDwb‡Ui Manning Schedule cÖm‡½|
+6.13
+ÒAutomated ICT System of Grameen BankÓ cÖK‡íi AvIZvq cÖavb Kvh©vj‡q nvW©Iq¨vi I gwbUwis Gi Kv‡Ri Rb¨ Rbej wb‡qvM cÖm‡½| 
+6.14
 MÖvgxY KwgDwb‡Kkvbm&& Gi ÷‡K _vKv m¤¢ve¨ 57wU †jRvi wcÖ›Uvi, A4 KvMR 26000wig, A3 KvMR 4380 wig, †Uvbvi 1518wU, 1wU KvfvW© f¨vb Ges 1wU gvB‡µvevm ÷vÛvW© f¨vb µq cÖm‡½| 
-82
-5.12
+6.15
+MÖvgxY KwgDwb‡Kkvbm&& Gi e¨envi‡hvM¨ nvW©Iq¨vi mvgMÖx µq Kiv cÖ‡m½| 
+6.16
 GB Soft Ges gBanker5 Gi wfwWI wUD‡Uvwiqvj wgwWqv †m‡ji Youtube P¨v‡b‡j Avc‡jvW mn cÖwkÿYv_©x‡`i mieivn cÖm‡½|
-83
-5.13
+6.17
 wewea|
-83
-
-
